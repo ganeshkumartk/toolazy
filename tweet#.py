@@ -21,7 +21,7 @@ def clean(val):
         clean = val.encode('utf-8')
     return clean
 
-searchQuery = '#techsytalk'  #This is for your hasthag(s), separate by comma
+searchQuery = '#techsytalk'  #This is for your hashtag(s), separate by comma
 maxTweets = 80000 # Large max nr
 tweetsPerQry = 100  # the max the API permits
 fName = 'myfile.csv' #The CSV file where your tweets will be stored
