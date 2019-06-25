@@ -1,4 +1,5 @@
 #This code searches for tweets with a particuar keyword and writes certain fields into a CSV file
+#Developed by 
 
 import sys, csv
 import twitter
